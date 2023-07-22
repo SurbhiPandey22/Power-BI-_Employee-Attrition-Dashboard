@@ -2,7 +2,7 @@
 
 
 Created several reports with information on various factors such as :
-           job role ,
-           gender,
+           job role
+           gender
            salary
 
